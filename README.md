@@ -22,7 +22,7 @@ smartinternz/
 │   └── dataset/
 │       ├── train.csv                        # Training dataset (28,200 rows)
 │       └── test.csv                         # Test dataset (12,087 rows)
-├── Flask - Wind-Mill-Power-Prediction/
+├── Flask-Wind-Mill-Power-Prediction/
 │   ├── static/
 │   │   └── style.css                        # Stylesheet for the web app
 │   ├── templates/
@@ -62,7 +62,7 @@ smartinternz/
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Sujeeth-Varma/Weather-Based-Prediction-of-Wind-Turbine-Energy-Output.git
 ```
 
 ### 2. Create & Activate Virtual Environment
@@ -70,7 +70,7 @@ git clone <repository-url>
 ```bash
 python -m venv .venv
 source .venv/bin/activate        # Linux/Mac
-# .venv\Scripts\activate         # Windows
+.venv\Scripts\activate         # Windows
 ```
 
 ### 3. Install Dependencies
