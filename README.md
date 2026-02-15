@@ -63,7 +63,6 @@ smartinternz/
 
 ```bash
 git clone <repository-url>
-cd smartinternz
 ```
 
 ### 2. Create & Activate Virtual Environment
@@ -105,7 +104,7 @@ python test_model.py
 ### 7. Run the Flask App
 
 ```bash
-cd "Flask - Wind-Mill-Power-Prediction"
+cd "Flask-Wind-Mill-Power-Prediction"
 ```
 
 Add your OpenWeatherMap API key in the `.env` file:
