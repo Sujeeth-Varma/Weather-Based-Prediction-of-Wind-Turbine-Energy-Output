@@ -10,13 +10,13 @@ https://github.com/user-attachments/assets/a85ccb75-32e1-4792-83a8-808c15431dbb
 
 ## Team Details
 
-|                 |                         |
-| --------------- | ----------------------- |
-| **Team ID**     | LTVIP2026TMIDS43058     |
-| **Team Leader** | Sujeeth Varma Chamarthi |
-| **Team Member** | Gutlapalli Premchand    |
-| **Team Member** | Charan Teja             |
-| **Team Member** | Divya Sree              |
+|                 |                             |
+| --------------- | -----------------------     |
+| **Team ID**     | LTVIP2026TMIDS90021         |
+| **Team Leader** | Ravikiran A                 |
+| **Team Member** | Arkadu Swapna               |
+| **Team Member** | Ayyangari Indhupriya        |
+| **Team Member** | Chenchanaboina GuruNiharika |
 
 ---
 
